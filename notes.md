@@ -1,0 +1,2 @@
+# Linktr.ee clone notes
+
